@@ -1,7 +1,7 @@
 # Proyecto C1 – Plan Evolutivo (B1 → C1)
 
 Sitio estático: plan de estudio por fases y días. Se despliega en **GitHub Pages** con GitHub Actions.
-
+ 
 ## Cómo tenerlo corriendo en GitHub
 
 1. **Crea un repositorio** en GitHub (por ejemplo `English-tutor`). No inicialices con README si ya tienes código local.
